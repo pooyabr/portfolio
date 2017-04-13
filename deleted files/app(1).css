@@ -1,0 +1,247 @@
+a {display: block;}
+
+
+
+
+
+header {
+  height: 200px;
+}
+
+.logo{
+  width: 74.5%;
+  height: 200px;
+  }
+.logo img {height: 200px;
+width: 100%;}
+.nav {
+  margin-left: 70%;
+  width: 30%;
+  height:200px;
+}
+
+.wrapper {
+  position: relative;
+}
+
+
+.div1, .div2, .div3, .div4 {
+  display: inline-block;
+  position: absolute;
+}
+
+.div1{
+padding-top: 120px;
+width: 50%;
+height: 400px;
+background-image: url(../img/3d-400.JPG);
+background-size: cover;
+background-position: center;
+clear: both;
+}
+
+h1,h2, h3 {
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 10px black;
+
+}
+.div2{
+margin-left: 50%;
+  width: 50%;
+height: 400px;
+display: inline;
+clear: both;
+
+}
+
+.div3{
+  margin-top: 400px;
+  width: 51%;
+height: 400px;
+clear: both;
+}
+
+.div4{
+  margin-top: 400px;
+  margin-left: 50%;
+  width: 50%;
+height: 400px;
+clear: both;
+}
+
+
+
+
+
+.div5 {
+  width: 49%;
+  height: 200px;
+  background-image: url(../img/3d-400.JPG);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  display: inline-block;
+  clear: both;
+}
+
+
+.div6 {
+  width: 49%;
+    height: 200px;
+  background-image: url(../img/3d-400.JPG);
+  background-position: center;
+  background-size: cover;
+    position: relative;
+      display: inline-block;
+      clear: both;
+}
+
+
+.div7 {
+  width: 49%;
+  height: 200px;
+  background-image: url(../img/3d-400.JPG);
+  background-position: center;
+  background-size: cover;
+    position: relative;
+      display: inline-block;
+      clear: both;
+}
+
+
+.div8 {
+  width: 49%;
+  height: 200px;
+  background-image: url(../img/3d-400.JPG);
+  background-position: center;
+  background-size: cover;
+    position: relative;
+    display: inline-block;
+    clear: both;
+}
+
+
+.div9 {
+  width: 49%;
+  height: 200px;
+  background-image: url(../img/3d-400.JPG);
+  background-position: center;
+  background-size: cover;
+    position: relative;
+    display: inline-block;
+    clear: both;
+}
+
+
+
+.div10 {
+  width: 49%;
+  height: 200px;
+  background-image: url(../img/3d-400.JPG);
+  background-position: center;
+  background-size: cover;
+    position: relative;
+    display: inline-block;
+    clear: both;
+}
+
+
+
+.div11 {
+  width: 49%;
+  height: 200px;
+  background-image: url(../img/3d-400.JPG);
+  background-position: center;
+  background-size: cover;
+    position: relative;
+    display: inline-block;
+    clear: both;
+}
+
+
+
+.div12 {
+  width: 49%;
+  height: 200px;
+  background-image: url(../img/3d-400.JPG);
+  background-position: center;
+  background-size: cover;
+    position: relative;
+    display: inline-block;
+    clear: both;
+}
+
+
+.div13 {
+  width: 49%;
+  height: 200px;
+  background-image: url(../img/3d-400.JPG);
+  background-position: center;
+  background-size: cover;
+    position: relative;
+    display: inline-block;
+    clear: both;
+}
+
+
+
+.div14 {
+  width: 49%;
+  height: 200px;
+  background-image: url(../img/3d-400.JPG);
+  background-position: center;
+  background-size: cover;
+    position: relative;
+    display: inline-block;
+    clear: both;
+}
+
+
+
+
+.div15 {
+  width: 49%;
+  height: 200px;
+  background-image: url(../img/3d-400.JPG);
+  background-position: center;
+  background-size: cover;
+    position: relative;
+    display: inline-block;
+    clear: both;
+}
+
+.div16 {
+  width: 49%;
+  height: 200px;
+  background-image: url(../img/3d-400.JPG);
+  background-position: center;
+  background-size: cover;
+    position: relative;
+    display: inline-block;
+    clear: both;
+}
+@media screen and (min-width:1160px) {
+  h1,h2, h3{ font-size: 20pt;}
+
+}
+
+
+
+
+@media screen and (max-width:1160px) {
+  h1,h2, h3{ font-size: 18pt;}
+
+}
+
+
+@media screen and (max-width:940px) {
+  h1,h2, h3{ font-size: 16pt;}
+
+}
+
+
+@media screen and (max-width:850px) {
+  h1,h2, h3{ font-size: 10pt;}
+
+}
