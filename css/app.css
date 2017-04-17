@@ -1,53 +1,87 @@
 /* * {outline: red 1px dotted;} */
-img {box-shadow: 1px 1px 15px;
-border-radius: 10px;
+body {
+  background-color: #222222;
+
 }
+main {
+  background-color: white;
+    padding-bottom: 20px;
+
+}
+img {
+  box-shadow: 1px 1px 15px;
+  border-radius: 10px;
+}
+
 .freebirdFormviewerViewFormBanner {
   background-color: blue;
 }
 
+ul {
+background-color: #242424;
+border-radius: 9px;
+padding-left: 10px;
+margin-right: 15px;
+}
+
 nav li {
   display: inline-block;
-  margin-right: 10px;
+  margin-right: -4px;
   background: #242424;
   padding: 15px;
-  border-radius: 5px;
+  border-radius: 0px;
 }
+
 nav li a:link, nav li a:visited {
-  color: lightgreen;
+  color: #c44141;
 }
+
 nav li a:hover {
   color: lightblue;
 }
+
 nav {
   margin-top: 20px;
 }
+
 nav li:hover {
   background-color: #404040;
 }
+
 section div {
   display: inline-block;
 }
+
 header h1 {
   margin: 20px 20px;
 }
 
-
-@media screen and (max-width:1024px){
+@media screen and (max-width:1024px) {
   img {
     width: 80%;
-    margin-left:10%;
+    margin-left: 10%;
   }
   section {
     padding: 5%;
   }
 }
 
-
-
-
-p {float: left;}
+p {
+  float: left;
+}
 
 article {
   padding: 25px;
+}
+
+
+section.row {margin-bottom: 20px;}
+
+.form {
+  color: white;
+padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  border-radius: 15px;
+  background-color: #343434;
 }
